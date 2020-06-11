@@ -1,8 +1,12 @@
 # research
 
-tweet: https://twitter.com/ghiliweld/status/1271132402375589888
+## tweets
+https://twitter.com/ghiliweld/status/1271132402375589888
 
-another tweet: https://twitter.com/ghiliweld/status/1270866492863676416
+https://twitter.com/ghiliweld/status/1270866492863676416
+
+## engineering blogs
+https://blog.discord.com/tagged/engineering
 
 ## repos
 https://github.com/ianramzy/decentralized-video-chat
